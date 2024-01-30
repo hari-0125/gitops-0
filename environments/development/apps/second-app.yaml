@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/hari-0125/gitops-0.git
     targetRevision: HEAD
-    path: environments/staging/second-app
+    path: environments/development/second-app
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
