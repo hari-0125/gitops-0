@@ -1,0 +1,4 @@
+env/development
+
+/apps contain the agrocd app files
+/my-app and /second-app contain deployment files
