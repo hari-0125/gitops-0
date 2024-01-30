@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: hari0125/nginx:v0.1.4
+          image: hari0125/nginx:v1.25.0
           ports:
             - containerPort: 80
           resources:
